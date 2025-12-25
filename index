@@ -1,0 +1,5 @@
+<div class="book">
+  <h3>New Islamic Book</h3>
+  <a href="books/newbook.pdf" target="_blank">📖 Read</a>
+  <a href="books/newbook.pdf" download>⬇ Download</a>
+</div>
